@@ -18,7 +18,7 @@ Tecnologías utilizadas: **React Native (Expo)** · **npm** · **Firebase** · *
 ```bash
 # 1 · Clonar el proyecto
 git clone https://github.com/noelabastovillarroel/proyectofinallibros.git
-cd proyecto_final_cristhian_macchiavelli
+cd proyectofinallibros
 
 # 2 · Instalar dependencias
 npm install
